@@ -1,37 +1,55 @@
 ## Structured Review
 
 ## Summary
-This second-pass version addresses the core evidence-integrity failure from the prior review. The city-case section is now explicitly confidence-graded and correctly labels Bucharest/Stockholm as metadata-level signals rather than confirmed full-text evidence. The framing is more conservative overall, and strong causal-impact language is avoided.
+This second-pass verification finds the revised review substantially more evidence-disciplined than typical narrative syntheses. The document now explicitly scopes itself as a targeted, non-systematic review, separates source-backed observations from inferences, and avoids overclaiming causal policy impact. Most substantive claims are hedged to the strength/type of available evidence (case studies vs institutional guidance).
 
-I do not find a remaining **FATAL** issue in this revision. One **MAJOR** issue remains around citation quality for a recurring conceptual claim that still depends on a mirror-hosted source.
+On this pass, I do **not** find remaining **FATAL** integrity issues (i.e., no direct contradiction, fabricated support, or claim that clearly outruns cited evidence at a level that invalidates the piece). Remaining concerns are mostly methodological: non-systematic retrieval, mixed evidence types without formal weighting, and limited treatment of publication/access bias.
 
 ## Strengths
-- [S1] Prior fatal issue appears resolved: city-case claims are now demoted and caveated (Section 3.3).
-- [S2] Confidence grading is now used consistently in applicability and cross-source patterns.
-- [S3] The methods note now clearly labels the taxonomy as illustrative, reducing false impression of meta-analytic rigor.
+- [S1] Scope control is explicit and front-loaded: the review states it is "targeted, non-systematic," preventing false impressions of exhaustiveness.
+- [S2] Claim calibration is improved: phrases like "inference," "under-evidenced," and confidence labels are used consistently.
+- [S3] Causal restraint is appropriate: implementation-impact claims are explicitly marked as not established by this corpus.
 
 ## Weaknesses
-- [W1] **MAJOR:** Boundary-object/adoption-condition claim still relies partly on a mirror-hosted source ([5]) rather than a clearly verifiable publisher copy, leaving citation-integrity risk for that specific pattern.
+- [W1] **MAJOR:** Evidence synthesis remains informal. The taxonomy and cross-source confidence labels are author-defined without a formal weighting/risk-of-bias scheme.
+- [W2] **MAJOR:** Source-type asymmetry persists (institutional guidance + a small number of cases), which may skew conclusions about practical utility.
+- [W3] **MINOR:** One process-status statement (publisher blocking) is not auditable from within the document itself (no retrieval log/table).
 
 ## Questions for Authors
-- [Q1] Can you replace [5] with a publisher/archival version (or add a second independent source) for the credibility/salience/legitimacy claim?
+- [Q1] Can you add a compact evidence table (claim -> source type -> design -> key limitation) to justify each confidence label?
+- [Q2] How were sources selected/excluded in practice (search strings, date ranges, language limits, screening criteria)?
+- [Q3] Would you separate "empirical findings" and "guidance recommendations" into distinct synthesis subsections to avoid implicit equivalence?
 
 ## Verdict
-- **Previous FATAL issues:** resolved in this pass.
-- **Remaining blocking issues:** none fatal; one major citation-quality concern ([W1]).
-- For an internal evidence-audit memo, this is now close to passable if [W1] is either patched or explicitly downgraded further.
+**FATAL issues remaining: None identified.**
+
+For an internal verification pass, this is now acceptable with caveats. If judged as a publishable literature review, it would still draw methodological pushback for non-systematic evidence handling.
+
+**Confidence:** 0.82 (high-moderate).
+
+Would this pass at a strict peer-reviewed methods venue? **Likely no** without systematic methods. Would it pass as a scoped policy-oriented evidence brief? **Possibly yes**, with clearer method appendix.
 
 ## Revision Plan
-1. Replace or corroborate source [5] with a stable, verifiable source.
-2. If replacement is not possible, downgrade the related claim from cross-source pattern to tentative note.
+1. Address [W1]: Add a one-page method appendix defining evidence tiers and confidence assignment rules.
+2. Address [W2]: Split findings by evidence class (case-study empirical vs institutional guidance) and avoid pooled confidence unless explicitly justified.
+3. Address [W3]: Add a retrieval/audit log (attempted sources, access outcome, disposition).
 
 ## Inline Annotations
 
-> "3. **Credibility/salience/legitimacy conditions remain central in environmental decision support uptake** [5][10]."
-**[W1] MAJOR:** This still depends on [5], which is listed as a mirror-hosted source. For verification-grade integrity, either provide a publisher-hosted version or add another fully accessible corroborating citation.
+> "**Scope note:** This review is based on a targeted, non-systematic set of retrievable sources ... not a full census of all European planning practice."
+**[S1]:** Strong integrity improvement. This directly limits overgeneralization risk and aligns expectations with method.
 
-> "5. White et al. (2010)... Mirror used: https://academia.edu/..."
-**[W1] MAJOR:** The source list itself confirms non-ideal provenance for evidence backing a substantive cross-source claim.
+> "The following taxonomy is an **author-constructed synthesis heuristic** from included sources, not a formal coded meta-classification."
+**[W1] MAJOR:** Good disclosure, but it confirms the core synthesis limitation. Add explicit coding/weighting rules or an evidence matrix.
+
+> "Confidence: **Medium** (mixed evidence types)."
+**[W2] MAJOR:** "Mixed evidence types" is acknowledged, but the rule for converting mixed guidance/case evidence into confidence levels is not specified.
+
+> "**Access constraints in this run** ... claims were removed or downgraded in this final version."
+**[W3] MINOR:** Reasonable caveat, but include a short audit table (source URL, access issue, action taken) for reproducibility.
+
+> "**MAJOR issue carried forward:** this review remains non-systematic and evidence-weighting across source types is not formalized."
+**[S2]:** Self-identification of the main remaining weakness is accurate and consistent with this audit.
 
 ## Sources
-- File reviewed: `/Users/akash/feynman/outputs/spatial-scenarios-practice.md`
+- Reviewed document: file:///Users/akash/feynman/outputs/european-spatial-scenarios-planning.md

@@ -1,4 +1,4 @@
-# Spatial Scenarios and Applicability in Practice: Literature Review
+#  Spatial Scenarios and Applicability in Practice: Literature Review
 
 Date: 2026-04-28  
 Slug: `spatial-scenarios-practice`
