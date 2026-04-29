@@ -114,17 +114,3 @@
 
 ### Could not complete fully
 - Exhaustive full-text appraisal of all top-ranked paywalled candidates due access constraints.
-
----
-
-## Sources
-1. Nowak et al., *Uncovering Spatial Planning Values through Law: Insights from Central East European Planning Systems* — https://europa21.igipz.pan.pl/article/item/13887.html  
-2. Auzins & Chigbu, *Values-Led Planning Approach in Spatial Development: A Methodology* — https://www.mdpi.com/2073-445X/10/5/461  
-3. Hersperger et al., *Understanding strategic spatial planning to effectively guide development of urban regions* — https://www.sciencedirect.com/science/article/abs/pii/S0264275118304141  
-4. Mäntysalo et al., *Public-space planning in four Nordic cities: Symbolic values in tension* — https://www.sciencedirect.com/science/article/abs/pii/S0016718510000412  
-5. Oliveira et al., *Spatial planning instruments for cropland protection in Western European countries* — https://www.sciencedirect.com/science/article/abs/pii/S0264837718319835  
-6. Getimis, *Comparing Spatial Planning Systems and Planning Cultures in Europe. The Need for a Multi-scalar Approach* — https://www.tandfonline.com/doi/abs/10.1080/02697459.2012.659520  
-7. ESPON, *Comparative Analysis of Territorial Governance and Spatial Planning Systems in Europe (COMPASS)* — https://archive.espon.eu/planning-systems  
-8. Auzins, *Capitalising on the European Research Outcome for Improved Spatial Planning Practices and Territorial Governance* — https://www.mdpi.com/2073-445X/8/11/163  
-9. Nadin et al. (chapter), *Cross-national comparison of spatial planning systems: a review of experience in Europe* — https://www.elgaronline.com/edcollchap/book/9781839106255/book-part-9781839106255-12.xml  
-10. *Measuring territorial cohesion is not a mission impossible* — https://www.tandfonline.com/doi/full/10.1080/09654313.2019.1607827

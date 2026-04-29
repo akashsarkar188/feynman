@@ -1,0 +1,104 @@
+# Values in European Political Ecology: A Literature Review
+
+## Summary
+European political ecology literature increasingly treats **values** as explicitly political, contested, and institutional: not just preferences, but normative commitments about justice, care, commoning, and human–nature relations [1,3,5,6,11]. Across 2014–2026 work, three linked trajectories stand out: (1) convergence between environmental justice and degrowth [1,2], (2) growth of decolonial and feminist critiques of EU policy framings [3,5,6], and (3) uptake of relational values language in biodiversity and bioeconomy debates [5,7,9]. Evidence is strongest for conceptual synthesis and policy critique [3,5,6]; evidence is thinner for comparative causal evaluation of which value frameworks produce better ecological and justice outcomes [3,5,9].
+
+## Search strategy and inclusion
+- Primary corpus started from delegated triage (`outputs/european-political-ecology-values-research-1.md`) focused on 2014–2026 plus canonical anchors.
+- Inclusion priority: peer-reviewed papers and book chapters directly addressing values in European political ecology or adjacent European environmental governance with political-ecology framing [1,3,5,6,9,11].
+- Exclusion/deweighting: sources with only metadata/snippet access used cautiously; claims from these are labeled as lower-confidence [2,4,8,10].
+
+## Conceptualizations of values
+
+### 1) Justice-centered values
+A consistent line of work connects environmental justice and degrowth, arguing that value conflict is materially grounded in unequal resource throughput and ecological burdens, not only discourse-level disagreement [1,2]. This is explicit in socio-metabolic analyses and movement-focused political economy [1,2].
+
+### 2) Care and social reproduction
+Feminist political ecology contributions position care as both an ethical and organizational principle, shifting attention from output-maximization toward maintenance, reproduction, and collective wellbeing [5,11].
+
+### 3) Commons and commoning
+Commons-oriented municipal and institutional analysis frames values as co-governance commitments (shared stewardship, use-value, collective rights) rather than market-mediated preferences [10].
+
+### 4) Relational values
+Recent European nature-policy scholarship emphasizes relational values (attachment, reciprocity, responsibility), often as an alternative/complement to intrinsic vs instrumental binaries [5,7,9].
+
+### 5) Decolonial values
+Decolonial political ecology critiques Eurocentric universals and highlights colonial continuities in knowledge and extraction relations, challenging policy narratives that claim justice while externalizing harms [3,5,6,8].
+
+```mermaid
+flowchart TD
+    A[Values in European Political Ecology] --> B[Justice]
+    A --> C[Care]
+    A --> D[Commons]
+    A --> E[Relational Values]
+    A --> F[Decoloniality]
+    B --> B1[Degrowth-EJ convergence]
+    C --> C1[Feminist political ecology]
+    D --> D1[Commoning institutions]
+    E --> E1[Nature policy leverage]
+    F --> F1[Coloniality critique of EU transitions]
+```
+
+## Thematic evidence by domain
+- **Bioeconomy and transition policy:** Strong critique of pro-growth framings; recurring calls for justice-oriented, relational, and decolonial redesign [3,4,5].
+- **Conservation/nature policy:** Relational values are increasingly operationalized in policy discourse, though implementation evidence remains limited [7,9].
+- **Urban governance/commoning:** Case evidence suggests value shifts toward co-management and public-common hybrids, but empirical base in this corpus is still narrow [10].
+- **Movement studies (degrowth/EJ):** Normative-theoretical integration is well developed; longitudinal impact evaluation remains limited [1,2].
+
+## Methods landscape
+Dominant methods are conceptual synthesis, discourse/policy analysis, socio-metabolic framing, and qualitative case comparison [1,3,5,6,9,10]. There is comparatively less mixed-method or longitudinal evaluation linking specific value framings to measured socioecological outcomes [3,5,9].
+
+## Consensus
+1. Values are politically structured and conflictual, not neutral inputs [1,3,6].
+2. Justice is central but increasingly articulated alongside care, relationality, and decolonial critique [3,5,6,7,11].
+3. Growth-centric sustainability narratives are a core target of critique in European political ecology [1,3,4,5].
+4. EU policy arenas are key sites where value pluralism is acknowledged rhetorically but often weakly institutionalized [3,5,7,9].
+
+## Disagreements and fault lines
+1. **Reform vs transformation:** whether EU institutions can internalize political-ecology values through reform, or whether deeper systemic rupture is required [3,5,6].
+2. **Universalist vs plural/decolonial normativity:** whether shared universal frameworks are politically necessary or epistemically violent [5,6,8].
+3. **Policy pragmatism vs movement radicalism:** tension between implementable policy instruments and anti-extractivist political demands [1,3,5].
+
+## Open questions
+1. Which institutional mechanisms best embed plural values without reducing them to market metrics? [5,7,9]
+2. Under what conditions do relational-value framings change budgets, regulation, or land-use outcomes (not only discourse)? [7,9]
+3. How can European policy evaluation include externalized socioecological impacts along supply chains? [3,5,8]
+4. What comparative evidence exists across European regions for care/commoning institutions at scale? [10,11]
+
+## Recommended next steps
+- Build a structured review dataset (paper-level coding: value frame, domain, method, evidentiary strength, policy mechanism).
+- Conduct a focused comparative review on two policy arenas (e.g., EU bioeconomy vs biodiversity governance) with explicit causal-process tracing.
+- Add empirical follow-up on outcome metrics (distributional justice, participation quality, ecological integrity) to complement conceptual critiques.
+
+## Sources
+[1] Scheidel, A. & Schaffartzik, A. (2019). *A socio-metabolic perspective on environmental justice and degrowth movements*. Ecological Economics, 161. https://ddd.uab.cat/pub/artpub/2019/203987/ecoeco_a2019v161p330pp.pdf
+
+[2] Akbulut, B., Demaria, F., Gerber, J.-F., & Martinez-Alier, J. (2019). *Who promotes sustainability? Five theses on the relationships between the degrowth and the environmental justice movements*. Ecological Economics. https://www.sciencedirect.com/science/article/abs/pii/S0921800919306160
+
+[3] Schöneberg, J. (2022). *Envisioning just transformations in and beyond the EU bioeconomy*. Sustainability Science. https://link.springer.com/article/10.1007/s11625-022-01091-5
+
+[4] Ramcilovic-Suominen, S. et al. (2022). *From pro-growth and planetary limits to degrowth and decoloniality*. Forest Policy and Economics. https://www.sciencedirect.com/science/article/pii/S1389934122001320
+
+[5] Ramcilovic-Suominen, S. et al. (2024). *How can relational, decolonial and feminist approaches inform the EU bioeconomy?* Sustainability Science. https://link.springer.com/article/10.1007/s11625-024-01613-3
+
+[6] Schulz, K. A. (2017). *Decolonizing political ecology*. Journal of Political Ecology. https://doi.org/10.2458/v24i1.20789
+
+[7] Balázsi, Á. et al. (2024). *Relational values of nature: leverage points for nature policy in Europe*. https://research.wur.nl/en/publications/relational-values-of-nature-leverage-points-for-nature-policy-in-/
+
+[8] Ferragina, E. et al. (2025). *The human-nature divide in European Union environmental policy*. Journal of Political Ecology. https://journals.librarypublishing.arizona.edu/jpe/article/id/5795/
+
+[9] Buijs, A. et al. (2022). *Policy discourses for reconnecting nature with society*. Land Use Policy. https://www.sciencedirect.com/science/article/pii/S0264837721006888
+
+[10] Scala, A. et al. (2022). *The commonification of the public under new municipalism*. https://ddd.uab.cat/pub/artpub/2022/261102/SA_The_commonification_of_the_public_under_new_municipalism-_commons-state_institutions_in_Naples_and_Barcelona.pdf
+
+[11] Barca, S. et al. (2023). *Caring Communities for Radical Change*. https://link.springer.com/chapter/10.1007/978-3-031-20928-4_8
+
+## Evidence caveats
+- Several items above were available only as abstract/metadata or partial snippets in this run; those sources were used for directional support and not as sole support for high-stakes quantitative claims [2,4,8,9,10].
+- No quantitative meta-analysis was run in this review.
+
+## Verification note
+- URL checks run across all listed sources. Fully readable in this run: [1], [3], [5], [7], [11].
+- Access-limited but URL appears valid (publisher anti-bot/paywall/captcha or snippet-only): [2], [4], [6], [8], [9], [10].
+- Unsupported quantitative claims: none retained (no benchmark scores/tables were asserted).
+- Single-source-critical areas to treat cautiously in follow-up: commons/new municipalism synthesis [10], and specific EU human–nature dualism claims tied to one recent article [8].
